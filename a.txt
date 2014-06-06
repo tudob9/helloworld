@@ -1,2 +1,4 @@
 line
+new
 another
+new2
